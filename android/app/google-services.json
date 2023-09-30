@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927899513191",
+    "project_id": "instagramkorki",
+    "storage_bucket": "instagramkorki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927899513191:android:44a2b4e506617c8164ffc2",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR9db6GiO7wMhAnErRtZOdt_52VKCb3wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
